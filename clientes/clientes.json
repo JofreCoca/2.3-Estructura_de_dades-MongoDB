@@ -1,0 +1,44 @@
+{
+  "_id": {
+    "$oid": "67864d73e895738bc8d792b2"
+  },
+  "client_name": "Pepe",
+  "address": "Right Street, 123",
+  "telephone": 678921235,
+  "email": "email@email.com",
+  "register_date": "23/09/2023",
+  "glasses": {
+    "glasses1": {
+      "mark": "Ray Ban",
+      "graduation_left": 2.3,
+      "graduation_right": 2,
+      "glass_color_left": "",
+      "glass_color_right": "",
+      "frame_type": "Metallic",
+      "price": 127,
+      "employee": "Jordi Lopez",
+      "provider": {
+        "name": "Googles Associated SL",
+        "address": {
+          "street": "Baker Street",
+          "number": "221B",
+          "floor": "1",
+          "door": "1",
+          "city": "London",
+          "zip_code": "08013",
+          "country": "England"
+        },
+        "phone": 55555555,
+        "fax": 555555555,
+        "NIF": "3465378I"
+      }
+    }
+  },
+  "client_recommendation": {
+    "client_name": "Pepe2",
+    "address": "Right Street, 123",
+    "telephone": 678921235,
+    "email": "email@email.com",
+    "register_date": "23/09/2023"
+  }
+}
